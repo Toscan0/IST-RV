@@ -1,0 +1,8 @@
+# feito por mim
+
+.git/
+.vs/
+
+# Builds
+*.apk
+*.unitypackage
