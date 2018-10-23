@@ -1,5 +1,11 @@
-# IST-RV
-Work made for Virtual Reality class 2018/2019
+# RV
 
+---
 
-moodle link: http://groups.ist.utl.pt/~pcm.daemon/moodle/course/view.php?id=10
+Grupo 1
+
+| Nome   |      Numero|  
+|----------|-------------|
+| Filipe Cruzinha |  70012|
+| João Henriques |    81638 |
+| Miguel Renda | 81061 |
