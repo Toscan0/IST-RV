@@ -1,7 +1,7 @@
 # IST-RV
 
 ---
-Work mande for Virtual Reality class (Realidade Virtual) 2017/2018
+Work mande for Virtual Reality class (Realidade Virtual) 2018/2019
 
 Grupo 1
 
